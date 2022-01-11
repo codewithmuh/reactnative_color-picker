@@ -9,7 +9,9 @@ A color picker component for react native.
 - Smooth and discrete color slider
 - Color change animations on wheel, slider and swatches
 
+![Demo Image](https://naeemur.github.io/asset-bucket/rn-wheel-color-picker.gif)
 
+(This demo uses my [react-native-advanced-ripple](https://github.com/Naeemur/react-native-advanced-ripple) and [react-native-elevation](https://github.com/Naeemur/react-native-elevation) modules.)
 
 ## Installation
 
